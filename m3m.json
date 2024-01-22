@@ -1,7 +1,7 @@
 {
     "name": "mockMEME",
     "symbol": "mockMEME",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/MeteoraAg/token-metadata/testing/m3m.png",
     "description": "Mock MEME!"
   }
   
